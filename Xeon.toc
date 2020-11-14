@@ -1,0 +1,16 @@
+## Interface: 11200
+## Title: |cff00D8FFXeon |cffFF007Fv 0.0.2.25
+## Author: [nslookup79@gmail.com , 2020] Divinewing, Frostwing, Thunderwing // Special Thanks <EE> Guild - |cffFF007FAidi
+## Notes: Xeon is the ultimate combat automation addon for WOW vanilla. 
+## Version: 0.0.2.25
+
+Xeon.lua
+Config.lua
+
+Initialization\Table.xml
+Initialization\Library.xml
+Initialization\Class.xml
+Initialization\UI.xml
+
+
+
